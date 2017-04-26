@@ -1,0 +1,10 @@
+{
+  "name": "copy-pkg",
+  "version": "0.1.0",
+  "description": "Copy packages because everything is broken",
+  "author": "Chad Hietala <chadhietala@gmail.com>",
+  "license": "MIT",
+  "bin": {
+    "copy": "./bin/copy-pkg.js"
+  }
+}
